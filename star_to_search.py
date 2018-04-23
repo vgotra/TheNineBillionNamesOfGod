@@ -82,8 +82,8 @@ while not found:
         print('iteration: ', iterations)
 
     for m in mags:
-        close = are_close(r_mag, m[1:])
-        if close:
-            found = True
+        # just to find few of them :)
+        found = are_close(r_mag, m[1:])
+        if found:
             print('Star: ', m)
             print('Random magnitudes: ', r_mag)
