@@ -6,7 +6,7 @@ This script just making random magnitudes and trying to find the most close know
 
 Inspired by "The Nine Billion Names of God" of  Arthur C. Clarke - https://en.wikipedia.org/wiki/The_Nine_Billion_Names_of_God
 
-I got 2 cases almost at start (and this is very very strange - because chance is very very minimal):
+I got 2 cases almost at start (and this is very very strange - because chance is minimal - try to play with diff coeficient in **are_close** function):
 
 Star:  ['eps Eridani', 4.61, 3.73, 2.228, 1.88, 1.776]
 
