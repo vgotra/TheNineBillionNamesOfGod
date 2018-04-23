@@ -1,6 +1,6 @@
 Sometimes it's much more interesting to read books and play than use resources to generate cryptocurrencies and then use of them in wrong way (especially at Dark Web). 
 
-I dodn't generate cryptocurrencies and don't want to use them until we will have a basic control on that!
+I don't generate cryptocurrencies and don't want to use them until we will have a basic control on that!
 
 This script just making random magnitudes and trying to find the most close known star (who knows - this can be a star with aliens ;)). Chance to find it minimal ;)
 
